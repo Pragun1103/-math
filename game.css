@@ -1,0 +1,13 @@
+body
+{
+	background-image: url("design-faded-grunge-texture-colors-pastel-beautiful-background-texture-vintage-style-design-red-wallpaper-173849763.jpg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+

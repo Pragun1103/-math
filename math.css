@@ -1,0 +1,42 @@
+body{
+    background-image: url("beautiful-shiny-pattern-on-dark-background-vector-8722445.jpg");
+}
+h3{
+	font-style: initial;
+	font-family: 'Uchen', serif;
+    color: white;
+}
+#player1name , #player2name ,#player1score,#player2score
+{
+	display: inline-block;
+	margin-left: 20px; 
+	font-size: 20px;
+	font-weight:200;
+    color: white;
+}
+button{
+	
+	border-radius: 10px;
+}
+#word1
+{
+	width: 60%;
+}
+#word2{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 20px ;
+background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+padding: 10px;
+float: none;
+text-align: left;
+}
+
